@@ -1,0 +1,15 @@
+body{
+
+}
+
+#randomArrow{
+	width: 80%;
+	/*height: 500px;*/
+	margin: 0 auto;
+	/*background: red;*/
+}
+
+h1{
+	text-align: center;
+	padding-top: 130px;
+}
