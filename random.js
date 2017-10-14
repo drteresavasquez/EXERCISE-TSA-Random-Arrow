@@ -13,5 +13,5 @@ window.onclick = windowClick;
 function windowClick(){
 	console.log("You clicked the Window!");
 	let num = Math.floor(Math.random() * 2)
-	clickWindow.innerHTML = `<img src="../${images[num]}"/>`
+	clickWindow.innerHTML = `<img src="images/${images[num]}"/>`
 }
